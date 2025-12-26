@@ -79,7 +79,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
 
-              <a href="tel:+4915123456789"
+              <a href="tel:+4915781513109"
                 className="bg-brand-gold text-brand-black px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 text-center" >
                 Jetzt anrufen
               </a>
