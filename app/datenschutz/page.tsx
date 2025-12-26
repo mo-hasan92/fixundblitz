@@ -22,7 +22,7 @@ export default function Datenschutz() {
                         <p className="mb-2"><strong>Wer ist verantwortlich für die Datenerfassung auf dieser Website?</strong></p>
                         <p className="mb-4">
                             Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten
-                            können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle" in dieser Datenschutzerklärung entnehmen.
+                            können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle&quot; in dieser Datenschutzerklärung entnehmen.
                         </p>
 
                         <p className="mb-2"><strong>Wie erfassen wir Ihre Daten?</strong></p>
@@ -140,7 +140,7 @@ export default function Datenschutz() {
                         <p className="mb-4">
                             Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte
                             eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die
-                            Adresszeile des Browsers von „http://" auf „https://" wechselt.
+                            Adresszeile des Browsers von „http://&quot; auf „https://&quot; wechselt.
                         </p>
                     </section>
 

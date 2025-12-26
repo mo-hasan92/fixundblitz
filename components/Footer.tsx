@@ -23,7 +23,7 @@ export default function Footer() {
             </p>
 
             <a href="https://www.check24.de/profis/view/df2ca5c1-edda-45b5-ac8e-689cbb00b68e" target="_blank" title="zum CHECK24 Profi Profil">
-              <img src="https://cdn.profis.check24.de/widget/2025.svg" alt="CHECK24 Profi Siegel" height="110" width="128" className="w-32 h-auto" />
+              <Image src="https://cdn.profis.check24.de/widget/2025.svg" alt="CHECK24 Profi Siegel" height={110} width={128} className="w-32 h-auto" unoptimized />
             </a>
           </div>
 
