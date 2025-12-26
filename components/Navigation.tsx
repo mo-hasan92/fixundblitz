@@ -62,7 +62,6 @@ export default function Navigation() {
         {menuOpen && (
           <div className="md:hidden pb-4 space-y-2">
             <Link href="/" className={getMobileLinkClass("/")}>Startseite</Link>
-            <Link href="/leistungen" className={getMobileLinkClass("/leistungen")}>Leistungen</Link>
             <Link href="/galerie" className={getMobileLinkClass("/galerie")}>Galerie</Link>
             <Link href="/bewertungen" className={getMobileLinkClass("/bewertungen")}>Bewertungen</Link>
             <Link href="/kontakt" className={getMobileLinkClass("/kontakt")}>Kontakt</Link>
